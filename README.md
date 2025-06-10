@@ -24,7 +24,7 @@ The project consists of three main components:
 
 **Arduino**
 - Arduino (hardware sensors and microcontrollers)
-- RF22 cards (wireless communication)
+- RFM22 cards (wireless communication)
 
 **Backend:**
 - Python
